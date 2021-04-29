@@ -4,8 +4,12 @@ Simple way to query Amazon Athena in python with boto3
 **STARS** and **FORKS** keep me motivated to do more work.
 
 ### You can follow this blog link:  
----
 https://medium.com/dataseries/auto**mating-athena-queries-from-s3-with-python-and-save-it-as-csv-8917258b1045
+
+
+---
+forked on 29 apr 2021 from https://github.com/raoofnaushad/AWSathena_s3_python
+---
 
 
 I have some update it. 
