@@ -3,6 +3,8 @@ import pandas
 import csv
 import time
 
+def get_var_char_values(d):
+    return [obj['VarCharValue'] for obj in d['Data']]
 
 def query_results(session, params, wait = True):    
     client = session.client('athena')
